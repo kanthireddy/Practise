@@ -1,4 +1,4 @@
 Hello Git Demo
 
-Basics of Git version system
+Basics of Git 
 
