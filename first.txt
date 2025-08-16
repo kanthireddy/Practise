@@ -1,4 +1,4 @@
-Hello Git Demo
+Hello Git SCM Demo
 
 Basics of GitHub tutorial
 
